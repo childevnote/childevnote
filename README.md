@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=childevnote&fontSize=90" />
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=daniel1125)](https://solved.ac/daniel1125)
-
 <div align=center>
 <h3>📚 Tech Stack 📚</h3>
 </div>

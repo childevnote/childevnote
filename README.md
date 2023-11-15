@@ -7,7 +7,7 @@ This is a place to create, and
 <i>
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Things I'm learning right now
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Eyes" width="2%" /> Things I'm learning right now
 </summary>
    <br>
   
@@ -25,9 +25,14 @@ This is a place to create, and
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </details>
 </i>
-<div>
+<details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture%20Light%20Skin%20Tone.png" alt="Eyes" width="2%" /> Info
+</summary>
+   <br>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=childevnote&theme=dark&hide_border=true)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=childevnote)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=childevnote&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
   
-</div>
+

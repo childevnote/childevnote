@@ -33,6 +33,8 @@ This is a place to create, and
    <br>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=childevnote&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</details>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchildevnote&count_bg=%23AFDD8C&title_bg=%23808080&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 

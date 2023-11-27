@@ -3,7 +3,7 @@
 ### Hi, there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="30" height="30" />
 This is a place to create, and
 [this place](https://kdjcomputer.tistory.com/) to study
-ㄱ
+
 <i>
 <details>
 <summary>
@@ -32,7 +32,8 @@ This is a place to create, and
 </summary>
    <br>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=childevnote&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=childevnote&theme=highcontrast&hide_border=true&border_radius=15&card_width=600)](https://git.io/streak-stats)
+  
 </details>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchildevnote&count_bg=%23AFDD8C&title_bg=%23808080&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

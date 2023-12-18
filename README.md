@@ -32,9 +32,13 @@ This is a place to create, and
 </summary>
    <br>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=childevnote&theme=highcontrast&hide_border=true&border_radius=15&card_width=600)](https://git.io/streak-stats)
-  
+[![GitHub Streak](https://streak-stats.demolab.com?user=childevnote&theme=highcontrast&hide_border=true&border_radius=15&card_width=470)](https://git.io/streak-stats) <br> 
+  <a href="https://github.com/childevnote">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=childevnote&show_icons=true&line_height=20&count_private=true&theme=github" />
+</a>
 </details>
+
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchildevnote&count_bg=%23AFDD8C&title_bg=%23808080&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   

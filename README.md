@@ -1,44 +1,37 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=kdj&fontSize=70&fontAlignY=40" />
 
-### Hi, there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="30" height="30" />
-This is a place to create, and
-[this place](https://kdjcomputer.tistory.com/) to study
-<i>
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Eyes" width="2%" /> Things I'm learning right now
-</summary>
-   <br>
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=kdj&fontSize=70&fontAlignY=40" />
+<h3>🚀 Full Stack Developer</h3>
+  <p>끊임없이 학습하고 기록하는 개발자입니다.</p>
+
+  <a href="https://kdjcomputer.tistory.com/">
+    <img src="https://komarev.com/ghpvc/?username=childevnote&label=Profile%20views&color=0e75b6&style=flat" alt="childevnote" /><br/>
+    <img src="https://img.shields.io/badge/Blog-Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white"/>
+  </a>
   
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  <br/>
 
- ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Amazon s3](https://img.shields.io/badge/Amazon-s3-569A31?style=for-the-badge&logo=Amazon-s3&logoColor=569A31)
-
-</details>
-
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" /> Things I want to learn
-</summary>
-   <br>
-
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-</details>
-</i>
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture%20Light%20Skin%20Tone.png" alt="Eyes" width="2%" /> Info
-</summary>
-   <br>
+  <h3>Tech Stack</h3>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=childevnote&theme=highcontrast&hide_border=true&border_radius=15&card_width=470)](https://git.io/streak-stats) <br> 
-  <a href="https://github.com/childevnote">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=childevnote&show_icons=true&line_height=20&count_private=true&theme=github" />
-</a>
-</details>
-
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <br/>
+  
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/childevnote?pet-id=707664998996546012" width="1000" height="120"/>
 </a>
-  
+</div>
+
+
 
